@@ -1,0 +1,13 @@
+1) What is python? What are ways to install python in your pc?
+Ans: Python is high level, general purpose and very popular programming language . Python is very well suited for biginner, also for experienced programmers with other programming languages
+Ways to install python in yous pc?
+And: Go to Anaconda.com website, then go to indivisual edition download 64 or 32 bit based on your PC OS
+2) What are code environments ? Types?
+Ans: code environment is place to write and edit code, compile checkout error, get behaviour of code mens output
+Types
+Text Editor, Full IDEs, Notebook environments
+Text Editor is general editor for any text file
+Ex: notepad
+Full IDEs is fully predefined environment for particular programming language
+Ex: pychram
+Notebook Environment is like notebook to write heading, code, code in notes format, check out input output in each line
